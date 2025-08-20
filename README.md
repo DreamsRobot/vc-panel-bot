@@ -1,1 +1,0 @@
-# vc-panel-bot
