@@ -1,1 +1,14 @@
-
+```gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.build/
+.cache/
+.git/
+.gitignore
+.env
+.env.*
+```
